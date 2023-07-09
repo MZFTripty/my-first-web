@@ -1,0 +1,19 @@
+body{
+    animation: bdy 1s infinite ;
+
+}
+
+@keyframes bdy {
+    20%{
+        background-color: antiquewhite;
+    }
+    40%{
+        background-color: rgb(21, 111, 21);
+    }
+    60%{
+        background-color: rgb(40, 24, 162);
+    }
+    80%{
+        background-color: rgb(210, 128, 28);
+    }
+}
